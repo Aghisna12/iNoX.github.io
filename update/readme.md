@@ -1,5 +1,6 @@
 <h1>FF SuperPatcher Plus(old, but powerfull)</h1>
 <br></br>
+<h2><a style="color:red;">#NoPayToWin</a></h2>
 <ul>
   <li>Support FF v 1.23.0 and v 1.24.0</li>
   <li>Support GameGuardians</li>
