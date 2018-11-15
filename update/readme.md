@@ -1,5 +1,5 @@
 <h1>FF SuperPatcher Plus(old, but powerfull)</h1>
-<br></br>
+<br>main developer by KMODs<br>mods by Aegis
 <h2><a style="color:red;">#NoPayToWin</a></h2>
 <ul>
   <li>Support FF v 1.23.x and v 1.24.x</li>
@@ -8,6 +8,7 @@
   <li>Support x64 (arm 64 bit)</li>
   <li>Support x86 (arm 32 bit)</li>
 </ul>
-<br></br>
-<img src="GameGuardians.png"></img>
-<img src="GameGuardians2.png"></img>
+<br>
+<img src="menu.png">
+<img src="GameGuardians.png">
+<img src="GameGuardians2.png">
