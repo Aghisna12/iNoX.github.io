@@ -4,6 +4,7 @@
 <ul>
   <li>Support FF v 1.23.x and v 1.24.x</li>
   <li>Support GameGuardians</li>
+  <li>Undetect MTP</li>
   <li>Support Direct Patcher</li>
   <li>Support x64 (arm 64 bit)</li>
   <li>Support x86 (arm 32 bit)</li>
