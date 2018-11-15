@@ -13,3 +13,6 @@
 <img src="Menu.png">
 <img src="GameGuardians.png">
 <img src="GameGuardians2.png">
+<h2>Direct Patcher</h2>
+<img src="Ammo.png"/>
+<img src="Brush.png"/>
