@@ -2,7 +2,7 @@
 <br></br>
 <h2><a style="color:red;">#NoPayToWin</a></h2>
 <ul>
-  <li>Support FF v 1.23.0 and v 1.24.0</li>
+  <li>Support FF v 1.23.x and v 1.24.x</li>
   <li>Support GameGuardians</li>
   <li>Support Direct Patcher</li>
   <li>Support x64 (arm 64 bit)</li>
